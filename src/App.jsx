@@ -1,5 +1,6 @@
 // import React from 'react'
 import Aboout from './components/Aboout'
+import Eyes from './components/Eyes'
 import Landing from './components/Landing'
 import Marquee from './components/Marquee'
 import Navbar from './components/Navbar'
@@ -11,6 +12,7 @@ function App() {
       <Landing />
       <Marquee />
       <Aboout />
+      <Eyes />
     </div>
   )
 }
